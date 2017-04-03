@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Membership</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">age</string>
+    <string name="id">id</string>
+</resources>
